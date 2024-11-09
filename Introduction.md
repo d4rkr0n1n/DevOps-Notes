@@ -13,4 +13,16 @@ DevOps is a set of practices and cultural philosophies that automate and integra
 - M: Measurement
 - S: Sharing
 
-### Culture
+## The Three Ways of DevOps
+
+- Systems Thinking and Principles of Flow
+- Amplifying Feedback Loops
+- A Culture of Continuous Experimentaion and Learning
+
+## DevOps Playbook
+
+- Culture
+- Process
+- IaC
+- Continuous Delivery
+- Site Reliability Engineering
